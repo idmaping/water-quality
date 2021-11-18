@@ -1,6 +1,6 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
-import { Card, Button } from 'react-bootstrap';
+//import { NavLink } from 'react-router-dom';
+import { Card } from 'react-bootstrap';
 
 function CardSensor(props) {
     return (

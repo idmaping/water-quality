@@ -1,5 +1,5 @@
 import React from 'react';
-import { Bar, Line } from 'react-chartjs-2';
+import { Bar } from 'react-chartjs-2';
 import { Card } from 'react-bootstrap';
 
 function SensorPlot(props) {

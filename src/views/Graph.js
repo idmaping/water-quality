@@ -5,7 +5,7 @@ import React, { useState } from 'react';
 import firebase from '../util/firebase'
 import SensorPlotLine from '../component/SensorPlotLine'
 import SensorPlotBar from '../component/SensorPlotBar'
-import { Row, Col, Container, InputGroup, DropdownButton, Dropdown } from 'react-bootstrap';
+import { Row, Container, InputGroup, DropdownButton, Dropdown } from 'react-bootstrap';
 import DatePicker from 'react-date-picker';
 
 
